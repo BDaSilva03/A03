@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9605ef-8f6b-49e5-bd99-0ae9230f9c49" name="Changes" comment="Feature: added terms to define in glossary">
+    <list default="true" id="ad9605ef-8f6b-49e5-bd99-0ae9230f9c49" name="Changes" comment="Feature: added definitions of terms to gloassary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -38,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663852048949</updated>
       <workItem from="1663852051729" duration="447000" />
-      <workItem from="1664906798591" duration="1429000" />
+      <workItem from="1664906798591" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="Task Create Repository and README">
       <created>1664906961151</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664907834914</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature: added definitions of terms to gloassary">
+      <created>1664908379088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664908379088</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
     <MESSAGE value="Feature: added workflow for Github, Webstorm, and Git" />
     <MESSAGE value="Feature: fixed download links for software" />
     <MESSAGE value="Feature: added terms to define in glossary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: added terms to define in glossary" />
+    <MESSAGE value="Feature: added definitions of terms to gloassary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: added definitions of terms to gloassary" />
   </component>
 </project>
