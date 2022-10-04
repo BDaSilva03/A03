@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9605ef-8f6b-49e5-bd99-0ae9230f9c49" name="Changes" comment="Task Create Repository and README">
+    <list default="true" id="ad9605ef-8f6b-49e5-bd99-0ae9230f9c49" name="Changes" comment="Feature: added workflow for Github, Webstorm, and Git">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663852048949</updated>
       <workItem from="1663852051729" duration="447000" />
-      <workItem from="1664906798591" duration="313000" />
+      <workItem from="1664906798591" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="Task Create Repository and README">
       <created>1664906961151</created>
@@ -46,7 +46,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664906961151</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task Create Repository and README Steos for Github">
+      <created>1664907185573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907185573</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Steps for webrains IDE">
+      <created>1664907280871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907280871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: added workflow for Github, Webstorm, and Git">
+      <created>1664907433817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907433817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +86,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task Create Repository and README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task Create Repository and README" />
+    <MESSAGE value="Task Create Repository and README Steos for Github" />
+    <MESSAGE value="Steps for webrains IDE" />
+    <MESSAGE value="Feature: added workflow for Github, Webstorm, and Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: added workflow for Github, Webstorm, and Git" />
   </component>
 </project>
